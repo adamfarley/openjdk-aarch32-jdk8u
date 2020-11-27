@@ -4419,7 +4419,7 @@ DATE_WHEN_GENERATED=1597148530
 
   { $as_echo "$as_me:${as_lineno-$LINENO}: Configuration created at $DATE_WHEN_CONFIGURED." >&5
 $as_echo "$as_me: Configuration created at $DATE_WHEN_CONFIGURED." >&6;}
-  { $as_echo "$as_me:${as_lineno-$LINENO}: configure script generated at timestamp $DATE_WHEN_GENERATED." >&5
+  { $as_echo "$as_me:${as_lineno-$LINENO}: configure script (dev) generated at timestamp $DATE_WHEN_GENERATED." >&5
 $as_echo "$as_me: configure script generated at timestamp $DATE_WHEN_GENERATED." >&6;}
 
 
